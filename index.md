@@ -1,4 +1,4 @@
-# freeworlds
+# The Development of the Free Worlds
 
 [Free Worlds](https://freeworlds.dev "Visit the site.") is an [open source](https://copyleft.org "The notion of an open source, or 'copyleft,' license.") [TTRPG](https://en.wikipedia.org/wiki/Tabletop_role-playing_game "What's a TRPG?"). Some might call it a [heartbreaker](http://www.indie-rpgs.com/articles/9/ "What's a hreatbreaker?"), and maybe it is; I'm ok with that. I've been playing D&D and similar games (as both a player and a DM) for close to 40 years, and I've been thinking about this project and taking notes for the last four. I have a vision for a game that takes the best of the genre, introduces some new elements to fix the things I don't love, and is something more traditionally open source than the OGL. (See license details below.)
 
